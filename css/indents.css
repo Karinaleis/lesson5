@@ -1,0 +1,59 @@
+
+div{
+    width: 200px;
+    height: 200px;
+   
+}
+
+.red{
+    background-color: red;
+    margin: 30px;
+    
+}
+
+.green{
+    background-color: greenyellow;
+    width: 200px;
+    height: 150px;
+    margin-left: 30px;
+    border: 10px solid black;
+    
+}
+
+.blue{
+    background-color: dodgerblue;
+    width: 150px;
+    height: 200px;
+    margin-top: 40px;
+    padding: 20px;
+    border-bottom: 20px dotted red;
+    text-align: center;
+    color:aliceblue;
+    font-size: 50px;
+}
+
+.yellow{
+    background-color: rgb(218, 180, 57);
+    width: 50%;
+    height: 100px;
+    margin: auto;
+    border: 30px dashed white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.rainbowb{
+    background-color: blue;
+    width: 120px;
+    height: 120px;
+    border: solid greenyellow 20px;
+   
+    
+}
+
+.greeni{
+    background-color: red;
+    width: 160px;
+    height: 160px;
+    padding: 20px;
+}
